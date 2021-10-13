@@ -1,3 +1,27 @@
+# HomeBrew installation on Ubuntu 20.04 Linux
+
+sudo apt-get install build-essential
+
+# Install Git on Ubuntu 20.04
+
+sudo apt install git -y
+
+# Run Homebrew installation script
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Add Homebrew to your PATH
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
+# Check Brew is working fine
+
+brew install gcc
+
+# Verfication Brew
+
+brew
+
 # My Cloud Home FUSE file system
 
 MCHFuse is a FUSE file system for mounting [Western Digital My Cloud Home](https://www.mycloud.com) devices.
