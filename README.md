@@ -53,8 +53,6 @@ using the  command:
 
 ``` sh
 brew cask install osxfuse
-brew install --cask osxfuse
-brew install Caskroom/cask/osxfuse
 ```
 
 ## Installing the latest release
