@@ -1,4 +1,4 @@
-# HomeBrew installation on Ubuntu 20.04 Linux
+# HomeBrew installation on ubuntu 20.04 Linux
 
 sudo apt-get install build-essential
 
