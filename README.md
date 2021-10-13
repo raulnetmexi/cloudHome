@@ -189,7 +189,7 @@ You can send your feedback through the [issue tracker](https://github.com/mnenci
 
 ## License
 
-Copyright 2020 Marco Nenciarini <mnencia@gmail.com>
+Copyright 2021 Raul Oropeza <raul.oropeza.cussi@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
