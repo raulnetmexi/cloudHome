@@ -2,23 +2,23 @@
 
 sudo apt-get install build-essential
 
-# Install Git on Ubuntu 20.04
+## Install Git on Ubuntu 20.04
 
 sudo apt install git -y
 
-# Run Homebrew installation script
+## Run Homebrew installation script
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# Add Homebrew to your PATH
+## Add Homebrew to your PATH
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
-# Check Brew is working fine
+## Check Brew is working fine
 
 brew install gcc
 
-# Verfication Brew
+## Verfication Brew
 
 brew
 
