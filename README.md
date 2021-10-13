@@ -21,7 +21,7 @@ sudo apt-get install build-essential
 ``` sh
 sudo apt install git -y
 ```
-## Run Homebrew installation script
+## Run Homebrew installation script(don't run with root user)
 ``` sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
