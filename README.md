@@ -59,7 +59,7 @@ curl -sSfL https://github.com/mnencia/mchfuse/raw/main/install.sh | sudo sh -s -
 * Then check out MCHFuse project
 
   ``` sh
-  git clone https://github.com/mnencia/mchfuse.git
+  git clone https://github.com/raulPlatimex/cloudHome.git
   ```
 
 * Then change directory to the just-checked-out work tree and build it
@@ -209,7 +209,7 @@ from performances.
 
 ## Feedback
 
-You can send your feedback through the [issue tracker](https://github.com/mnencia/mchfs)
+You can send your feedback through the [issue tracker](https://github.com/raulPlatimex)
 
 ## License
 
