@@ -80,7 +80,7 @@ curl -sSfL https://github.com/raulPlatimex/cloudHome/raw/main/install.sh | sudo 
 * Then change directory to the just-checked-out work tree and build it
 
   ``` sh
-  cd mchfuse
+  cd cloudHome
   make
   ```
 
